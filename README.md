@@ -1,5 +1,10 @@
 # Spy Dashboard Application
 
+SPY est un jeu sérieux réalisé par l'équipe de recherche Mocah du laboratoire Lip6 de Sorbonne Université.
+
+Conçu pour les enseignants, SPY contient plusieurs scénarios de jeu clés en main qui permettent de faire travailler les élèves sur des compétences de la pensée informatique
+ 
+
 ## Setup Instructions
 
 ### 1. Install Node.js Dependencies
